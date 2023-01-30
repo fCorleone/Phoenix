@@ -1,8 +1,0 @@
-module bcostars {
-struct TwoPCParams
-{
-    1 require long blockNumber;
-    2 require long timePoint;
-    3 optional string primaryKey;
-};
-};
