@@ -1,0 +1,7 @@
+./buffer.go
+./bytespipe.go
+./fswriters.go
+./readers.go
+./temp_unix.go
+./writeflusher.go
+./writers.go

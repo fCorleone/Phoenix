@@ -1,0 +1,6 @@
+./archive.go
+./archive_linux.go
+./archive_unix.go
+./changes_unix.go
+./copy.go
+./whiteouts.go

@@ -1,0 +1,11 @@
+./credential.go
+./credrequest.go
+./idemix.pb.go
+./issuerkey.go
+./nonrevocation-prover.go
+./nonrevocation-verifier.go
+./nymsignature.go
+./revocation_authority.go
+./signature.go
+./util.go
+./weak-bb.go

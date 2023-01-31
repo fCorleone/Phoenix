@@ -1,0 +1,8 @@
+./cred.go
+./idemix.go
+./issuer.go
+./nym.go
+./nymsigner.go
+./revocation.go
+./signer.go
+./user.go

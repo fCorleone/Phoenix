@@ -1,0 +1,4 @@
+./attributes.go
+./gotty.go
+./parser.go
+./types.go

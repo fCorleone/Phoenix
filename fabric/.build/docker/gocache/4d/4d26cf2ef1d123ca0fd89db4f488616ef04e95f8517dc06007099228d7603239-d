@@ -1,0 +1,8 @@
+./decoder.go
+./doc.go
+./encoder.go
+./file_pipeline.go
+./metrics.go
+./repair.go
+./util.go
+./wal.go

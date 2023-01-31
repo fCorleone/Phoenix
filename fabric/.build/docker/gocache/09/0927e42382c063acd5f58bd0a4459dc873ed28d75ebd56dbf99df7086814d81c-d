@@ -1,0 +1,6 @@
+./api.go
+./dynamic.go
+./json.go
+./nested.go
+./statically_opaque.go
+./variably_opaque.go

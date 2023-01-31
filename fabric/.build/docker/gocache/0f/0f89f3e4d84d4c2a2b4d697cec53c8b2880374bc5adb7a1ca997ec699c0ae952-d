@@ -1,0 +1,11 @@
+./cert.go
+./configbuilder.go
+./factory.go
+./idemix_roles.go
+./idemixmsp.go
+./identities.go
+./msp.go
+./mspimpl.go
+./mspimplsetup.go
+./mspimplvalidate.go
+./mspmgrimpl.go

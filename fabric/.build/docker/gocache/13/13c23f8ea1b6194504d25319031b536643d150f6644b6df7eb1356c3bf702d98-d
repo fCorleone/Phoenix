@@ -1,0 +1,3 @@
+./blockwriter.go
+./chainsupport.go
+./registrar.go

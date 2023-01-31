@@ -1,0 +1,12 @@
+./block.go
+./collection.pb.go
+./common.go
+./common.pb.go
+./configtx.go
+./configtx.pb.go
+./configuration.go
+./configuration.pb.go
+./ledger.pb.go
+./policies.go
+./policies.pb.go
+./signed_data.go

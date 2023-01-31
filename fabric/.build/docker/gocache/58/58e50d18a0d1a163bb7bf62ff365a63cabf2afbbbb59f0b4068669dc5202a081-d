@@ -1,0 +1,8 @@
+./AES.go
+./GCM.go
+./HASH256.go
+./HASH384.go
+./HASH512.go
+./NHS.go
+./RAND.go
+./SHA3.go

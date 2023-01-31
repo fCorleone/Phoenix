@@ -1,0 +1,9 @@
+./aesopts.go
+./bccsp.go
+./ecdsaopts.go
+./hashopts.go
+./idemixerrs.go
+./idemixopts.go
+./keystore.go
+./opts.go
+./rsaopts.go

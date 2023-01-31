@@ -1,0 +1,5 @@
+./decode.go
+./encode.go
+./expfmt.go
+./text_create.go
+./text_parse.go

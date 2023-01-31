@@ -1,0 +1,13 @@
+./ARCH.go
+./BIG.go
+./DBIG.go
+./ECDH.go
+./ECP.go
+./ECP2.go
+./FP.go
+./FP12.go
+./FP2.go
+./FP4.go
+./MPIN.go
+./PAIR.go
+./ROM.go

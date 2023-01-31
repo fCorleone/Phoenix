@@ -1,0 +1,8 @@
+./formatters.go
+./glog_formatter.go
+./init.go
+./journald_formatter.go
+./log_hijack.go
+./logmap.go
+./pkg_logger.go
+./syslog_formatter.go

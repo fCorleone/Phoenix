@@ -1,0 +1,13 @@
+./alt_exit.go
+./doc.go
+./entry.go
+./exported.go
+./formatter.go
+./hooks.go
+./json_formatter.go
+./logger.go
+./logrus.go
+./terminal_check_notappengine.go
+./terminal_check_unix.go
+./text_formatter.go
+./writer.go
